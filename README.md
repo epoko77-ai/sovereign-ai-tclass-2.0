@@ -5,9 +5,9 @@
 ![License](https://img.shields.io/badge/license-CC--BY--SA%204.0-blue.svg) ![Status](https://img.shields.io/badge/status-Active-green.svg) ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 ## 📖 개요 (Introduction)
-최근 AI 모델의 유사성 논란과 기술 유출 공방을 보며, 우리는 소모적인 논쟁을 넘어 "무엇이 진정한 기술 주권(Sovereignty)인가?"에 대한 명확한 기준을 정립해야 합니다.
+우리는 소모적인 논쟁을 넘어 "무엇이 진정한 기술 주권(Sovereignty)인가?"에 대한 명확한 기준을 정립해야 합니다.
 
-이 프로젝트는 글로벌 기술 트렌드와 **엔지니어링 실체(Engineering Reality)**를 반영하여, AI 모델의 주권 수준을 판별하는 [7단계 등급 체계 (T-Class 2.0)]를 정의합니다.
+이 프로젝트는 글로벌 기술 트렌드와 엔지니어링 실체(Engineering Reality)를 반영하여, AI 모델의 주권 수준을 판별하는 [7단계 등급 체계 (T-Class 2.0)]를 정의합니다.
 
 이 기준은 단순한 성능 평가가 아닙니다.
 * **Data Sovereignty:** 데이터의 기원과 통제권
