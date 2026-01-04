@@ -42,29 +42,3 @@
 
 ---
 
-## 🖼️ 한눈에 보는 판별 로직 (Logic Flow)
-
-```mermaid
-graph TD
-    Start[🚀 내 모델 등급 진단하기] --> Q1{Q1. 가중치를 처음부터<br>자체 학습했는가?<br>(Pre-training)}
-    
-    Q1 -- No --> NonSov[❌ 비 소버린 구간<br>(T0 ~ T3)]
-    Q1 -- Yes --> Sov[🎖️ 소버린 구간 진입<br>(통제권 확보)]
-    
-    Sov --> Q2{Q2. 독자적인<br>모델링 코드를 쓰는가?<br>(Custom Code)}
-    
-    NonSov -.-> T2[T2/T3. 튜닝 및 확장]
-    
-    Q2 -- No<br>(표준호환) --> Q3{Q3. 구조 변경이나<br>최적화를 수행했는가?}
-    Q2 -- Yes<br>(독자코드) --> T5[🛡️ T5. 네이티브 아키텍처]
-
-    Q3 -- No --> T4_1[T4-1. 아키텍처 어답터]
-    Q3 -- Yes --> T4_2[✅ T4-2. 아키텍처 스케일러]
-    
-    T5 --> Q4{Q4. 국산 인프라<br>(NPU/Cloud)인가?}
-    Q4 -- Yes --> T6[👑 T6. 풀스택 소버린]
-
-    style Sov fill:#d4edda,stroke:#28a745,stroke-width:2px,stroke-dasharray: 5 5
-    style T4_2 fill:#d4edda,stroke:#28a745,stroke-width:4px
-    style T5 fill:#cce5ff,stroke:#004085,stroke-width:4px
-    style T6 fill:#fff3cd,stroke:#856404,stroke-width:4px
