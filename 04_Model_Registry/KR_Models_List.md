@@ -11,7 +11,7 @@
 | **LG** | **EXAONE-4.0-32B** | **T5** | **Architecting**(독자 연산 그래프) + **Code Independent** | **기술 주권 및 원천 IP 확보** |
 | **Naver** | **HyperCLOVA X THINK** | **T5** | **Native Arch**(Peri-LN, μP) + **RLVR** + 독자 토크나이저 | **독자 설계 기반의 고도화된 추론(Reasoning) 모델** |
 | **SKT** | **A.X 3.1** | **T4-2** | **From Scratch**(원천 학습) + **Scaler**(34B 독자 규격) | **자체 학습 소버린 AI (Llama 호환)** |
-| **Upstage** | **Solar Pro 2** | **T4-2** | Llama 아키텍처 기반의 고도화된 스케일링(DUS) | **글로벌 호환성 및 효율 극대화** |
+| **Upstage** | **Solar Pro 2** | **T3** | Llama 아키텍처 기반의 고도화된 스케일링(DUS) | **글로벌 호환성 및 효율 극대화** |
 | **SKT** | **A.X 4.0** | **T2** | Qwen 2.5 기반 CPT (한국어/통신 데이터 추가 학습) | **오픈소스 기반 도메인 확장형** |
 | **WorksAI** | WorksAI | **T0** | 빅테크 API 연동 래핑 서비스 | **자체 엔진 부재 (단순 연동)** |
 
