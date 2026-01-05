@@ -24,7 +24,7 @@
 * **운영 비용 절감 (TCO):** 한국어 토큰 압축률(Compression Rate)이 월등히 높습니다.
     * *예: Llama가 "나는/학교에/갑니다"를 5개 토큰으로 쪼갤 때, T5 모델은 2~3개 토큰으로 처리.*
     * 이는 곧 추론 비용(Inference Cost) 30~40% 절감으로 이어집니다.
-* **대표 사례:** LG K-EXAONE (이중언어 구조 독자 설계), 네이버 HyperCLOVA X
+* **대표 사례:** LG EXAONE 4.0, 네이버 HyperCLOVA X Think
 
 ---
 
