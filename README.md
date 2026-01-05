@@ -34,7 +34,7 @@
 | | **T1** | Fine-Tuner | 폐쇄형 모델 미세조정 (블랙박스) | 📉 **최하 (Very Low)** |
 | **제2구간**<br>(과도기) | **T2** | CPT Model + SFT | 오픈웨이트 + 추가학습 (라이선스 종속) | 🔸 **하 (Limited)** |
 | | **T3** | Expanded (DUS)| 오픈웨이트 병합 및 확장 (리모델링) | 🔸 **중 (Partial)** |
-| **제3구간**<br>(표준 단계) | **T4** | **From Scratch** 🎖️ | **아키텍처 차용 + 가중치 자체 학습** | ✅ **통제권 확보 (Control)** |
+| **제3구간**<br>(표준 단계) | **T4** | **From Scratch** 🎖️ | **아키텍처 참조 + 가중치 자체 학습** | ✅ **통제권 확보 (Control)** |
 | | *T4-1* | *Adopter* | *설정값 그대로 학습 (단순 도입)* + 아키텍처 그대로| *Data Sovereignty* |
 | | *T4-2* | *Scaler* | *구조 최적화 및 확장 (Global Standard)* + 아키텍처 변화| *Tech Sovereignty* |
 | **제4구간**<br>(리더십) | **T5** | Native Arch 🎖️ | 독자 설계 + 한국어 토크나이저 | 🛡️ **완전 통제 (Full Control)** |
