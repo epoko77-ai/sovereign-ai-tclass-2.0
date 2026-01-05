@@ -41,6 +41,9 @@
 | | **T6** | Full-Stack 🎖️ | T5 + 국산 NPU + 국산 클라우드 | 👑 **국가 안보 (Security)** |
 
 ---
+**Contributions are welcome!** Please feel free to submit a Pull Request if you have any suggestions or improvements.
+
 *Created by Seung Hyun, LEE - 2026.01.04
 
 *Discussions assisted by Gemini 3.0 Pro & ChatGPT 5.2
+
