@@ -32,8 +32,8 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **제1구간**<br>(의존 단계) | **T0** | API Wrapper | 빅테크 API 호출, 껍데기만 존재 | ❌ **없음 (None)** |
 | | **T1** | Fine-Tuner | 폐쇄형 모델 미세조정 (블랙박스) | 📉 **최하 (Very Low)** |
-| **제2구간**<br>(과도기) | **T2** | CPT Model | 오픈소스 + 추가학습 (라이선스 종속) | 🔸 **하 (Limited)** |
-| | **T3** | Expanded (DUS) + SFT| 오픈소스 병합 및 확장 (리모델링) | 🔸 **중 (Partial)** |
+| **제2구간**<br>(과도기) | **T2** | CPT Model | 오픈웨이트 + 추가학습 (라이선스 종속) | 🔸 **하 (Limited)** |
+| | **T3** | Expanded (DUS) + SFT| 오픈웨이트 병합 및 확장 (리모델링) | 🔸 **중 (Partial)** |
 | **제3구간**<br>(표준 단계) | **T4** | **From Scratch** 🎖️ | **아키텍처 차용 + 가중치 자체 학습** | ✅ **통제권 확보 (Control)** |
 | | *T4-1* | *Adopter* | *설정값 그대로 학습 (단순 도입)* | *Data Sovereignty* |
 | | *T4-2* | *Scaler* | *구조 최적화 및 확장 (Global Standard)* | *Tech Sovereignty* |
