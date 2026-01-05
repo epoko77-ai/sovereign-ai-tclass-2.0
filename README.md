@@ -35,8 +35,8 @@
 | **제2구간**<br>(과도기) | **T2** | CPT Model + SFT | 오픈웨이트 + 추가학습 (라이선스 종속) | 🔸 **하 (Limited)** |
 | | **T3** | Expanded (DUS)| 오픈웨이트 병합 및 확장 (리모델링) | 🔸 **중 (Partial)** |
 | **제3구간**<br>(표준 단계) | **T4** | **From Scratch** 🎖️ | **아키텍처 참조 + 가중치 자체 학습** | ✅ **통제권 확보 (Control)** |
-| | *T4-1* | *Adopter* | **표준 아키텍처(Config)준수(아키텍쳐 동일)* | *Data Sovereignty* |
-| | *T4-2* | *Scaler* | *구조 최적화 및 확장 (Global Standard)(아키텍처 변화)* | *Tech Sovereignty* |
+| | *T4-1* | *Adopter* | *표준 아키텍처(Config)준수 (아키텍쳐 동일)* | *Data Sovereignty* |
+| | *T4-2* | *Scaler* | *구조 최적화 및 확장 (Global Standard) (아키텍처 변화)* | *Tech Sovereignty* |
 | **제4구간**<br>(리더십) | **T5** | Native Arch 🎖️ | 독자 설계 + 한국어 토크나이저 | 🛡️ **완전 통제 (Full Control)** |
 | | **T6** | Full-Stack 🎖️ | T5 + 국산 NPU + 국산 클라우드 | 👑 **국가 안보 (Security)** |
 
