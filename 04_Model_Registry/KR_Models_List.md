@@ -8,11 +8,13 @@
 
 | 제조사 | 모델명 | 추정 등급 | 판정 근거 (Key Factor) | 비고 |
 | :--- | :--- | :---: | :--- | :--- |
-| **LG** | **K-EXAONE** | **T5** | 독자 아키텍처 설계 + 이중언어(한/영) 원천 학습 | 산업 특화 데이터 강점 |
-| **Naver** | HyperCLOVA X | **T5** | 자체 아키텍처 + 한국어 토크나이저 구축 | 보안상 세부 스펙 비공개 |
-| **Upstage** | **Solar-Open-100** | **T4-2** | Llama 구조 기반 DUS(Depth Up-Scaling) 확장 | 글로벌 리더보드 상위권 |
+| **LG** | **EXAONE-4.0-32B** | **T5** | **Architecting**(독자 연산 그래프) + **Code Independent**(전용 클래스) | **T-Class 2.0 Reference** |
+| **Naver** | **HyperCLOVA X THINK** | **T5** | **Native Arch**(Peri-LN, μP) + **RLVR**(추론 강화) + 독자 토크나이저 | Sovereign AI (Reasoning) |
+| **Upstage** | **Solar Pro 2** | **T4-2** | Llama 아키텍처 기반의 고도화된 스케일링 및 구조 최적화 | Global Leaderboard 상위 |
 | **SKT** | **A.X 4.0** | **T2** | Qwen 2.5 기반 CPT (한국어 추가 학습) | 통신 특화 데이터 강화 |
 | **WorksAI** | WorksAI | **T0** | 빅테크 API 연동 래핑 서비스 | 기업용 생산성 도구 |
+
+> ※ 이번 **'독자 파운데이션 모델'**은 현재 평가가 진행 중이므로, 공정성을 위해 본 리스트에서 제외하였습니다.
 
 ---
 ### ➕ 모델 추가/수정 요청 방법
