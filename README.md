@@ -41,7 +41,8 @@
 | | **T6** | Full-Stack 🎖️ | T5 + 국산 NPU + 국산 클라우드 | 👑 **국가 안보 (Security)** |
 
 ---
-**Contributions are welcome!** Please feel free to submit a Pull Request if you have any suggestions or improvements.
+### 🚀 Contribute
+본 프로젝트의 발전을 위한 귀하의 제언과 기술적 기여를 언제나 환영합니다. 수정이 필요한 부분이나 개선 아이디어가 있다면 주저 없이 Pull Request를 보내주세요.
 
 *Created by Seung Hyun, LEE - 2026.01.04
 
